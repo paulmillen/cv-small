@@ -1,6 +1,8 @@
-## Your Name
+## Paul Millen -- WORK IN PROGRESS
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+Currently a student at one of the most discerning dev bootcamps in the world.  After a few years as a freelancer in theatre, TV and film, moved into financial support for tech startups.  Creative, 
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (07.17 to 09.17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
