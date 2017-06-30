@@ -1,4 +1,4 @@
-## Paul Millen -- WORK IN PROGRESS
+## Paul Millen -- First Draft
 
 I am currently a student at one of the most discerning dev bootcamps in the world.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, ran creative projects as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
 
