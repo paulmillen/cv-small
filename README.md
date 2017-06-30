@@ -57,7 +57,7 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 
 #### Other qualifications
 
-- Part qualified CIMA accountant
+- Part-qualified CIMA accountant
 - Diploma in Acoustics and Noise Control, Institute of Acoustics.
 
 ### Interests
