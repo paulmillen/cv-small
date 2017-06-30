@@ -4,13 +4,9 @@ I am currently a student at one of the most discerning dev bootcamps in the worl
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+Throughout my career it has been a requirement to effectively communicate between the technical and non-technical, whether tailoring financial reports, explaining technical accounting points to founders or negotiating the competing interests on pressured theatre and film sets.  I believe effective listening is key to good communication; people often observe that I am an approachable and calming presence - I always had great relationships with my clients and colleagues as an accountant, and a freelancer where your reputation secures your next job.  Training and working as a volunteer counsellor for Childline has helped me further develop my active listening skills. 
 
 #### Another Skill
 
