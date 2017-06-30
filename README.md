@@ -30,8 +30,8 @@ Working with homeless young people to develop their lifeskills and secure long t
 *senior finance assistant*  
 Provide monthly financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Find and implement technological solutions to aid workflow; use of cloud accounting.
 
-**Freelancer** (2007-2014)
-theatre sound designer/production manager/sound recordist  
+**Freelancer** (2007-2014)  
+*theatre sound designer / production manager / sound recordist*  
 Compose sound and music for theatre, management of touring theatre shows and sound departments, record dialogue for TV and movies. 
 
 ## Education
