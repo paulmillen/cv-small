@@ -47,7 +47,8 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 
 #### University of Sheffield (09.03 to 12.07)
 
-**MA, Theatre and Performance** 
+**MA, Theatre and Performance**
+
 - *Distinction*
 **BA hons English Literature** 
 - *1st Class*
