@@ -24,14 +24,17 @@ As a sound recordist, I was typically solely responsible for the capture of dial
 
 **St Christopher's Fellowship** (06.16 to 05.17)    
 *Support Worker - 16+*
+
 Working with homeless young people to develop their lifeskills and secure long term accomodation.
 
 **iHorizon** (04.14 to 06.16)   
 *Senior Finance Assistant*
+
 Provide monthly financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Find and implement technological solutions to aid workflow; use of cloud accounting.
 
 **Freelancer** (2007-2014)
 *theatre sound designer/production manager/sound recordist*
+
 Compose sound and music for theatre, management of touring theatre shows and sound departments, record dialogue for TV and movies. 
 
 ## Education
@@ -58,9 +61,13 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 ### Interests
 
 I have been a volunteer counsellor at Childline since September 2016.
+
 I enjoy running and have raised over £1000 for charities running half marathons in recent years.
+
 I play the guitar, drums and piano (with more enthusiasm than ability).  Recording and computer music when I have the time.
+
 Photography, film and digital - B&W development, Photoshop.
+
 Learning French.
 
 
