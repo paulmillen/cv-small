@@ -41,14 +41,14 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 
 #### Makers Academy (07.17 to 09.17)
 
-- Curiosity and hungry passion for code     - Software Craftsmanship
-- Independent learner and problem-solver    - Ruby, Rails, Javascript, Node.js, Angular.js
-- OOP, TDD, SOLID, MVC, DDD                 - Rspec, Jasmine, Mocha
+- Curiosity and hungry passion for code&nbsp;&nbsp;&nbsp;&nbsp;- Software Craftsmanship
+- Independent learner and problem-solver&nbsp;&nbsp;&nbsp;&nbsp;- Ruby, Rails, Javascript, Node.js, Angular.js
+- OOP, TDD, SOLID, MVC, DDD&nbsp;&nbsp;&nbsp;&nbsp;- Rspec, Jasmine, Mocha
 
 #### University of Sheffield (09.03 to 12.07)
 
-- MA, Theatre and Performance               - BA hons English Literature
-- Distinction                               - 1st Class
+- MA, Theatre and Performance&nbsp;&nbsp;&nbsp;&nbsp;- BA hons English Literature
+- Distinction&nbsp;&nbsp;&nbsp;&nbsp;- 1st Class
 
 - awarded the Maisie Glass prize for outstanding attainment in coursework and performance elements of study
 - offered funded PhD position
