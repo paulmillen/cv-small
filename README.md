@@ -23,18 +23,15 @@ As a sound recordist, I was typically solely responsible for the capture of dial
 ## Experience
 
 **St Christopher's Fellowship** (06.16 to 05.17)    
-*Support Worker - 16+*
-
+*support worker - 16+*  
 Working with homeless young people to develop their lifeskills and secure long term accomodation.
 
 **iHorizon** (04.14 to 06.16)   
-*Senior Finance Assistant*
-
+*senior finance assistant*  
 Provide monthly financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Find and implement technological solutions to aid workflow; use of cloud accounting.
 
 **Freelancer** (2007-2014)
-*theatre sound designer/production manager/sound recordist*
-
+heatre sound designer/production manager/sound recordist  
 Compose sound and music for theatre, management of touring theatre shows and sound departments, record dialogue for TV and movies. 
 
 ## Education
