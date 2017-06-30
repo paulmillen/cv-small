@@ -47,10 +47,10 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 
 #### University of Sheffield (09.03 to 12.07)
 
-**MA, Theatre and Performance**
+**MA, Theatre and Performance** - 
 &nbsp;&nbsp;&nbsp;&nbsp;*Distinction*
 
-**BA hons English Literature** 
+**BA hons English Literature** -  
 &nbsp;&nbsp;&nbsp;&nbsp;*1st Class*
 
 - Awarded the Maisie Glass prize for outstanding attainment in coursework and performance elements of study
