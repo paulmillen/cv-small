@@ -6,16 +6,21 @@ I am currently a student at one of the most discerning dev bootcamps in the worl
 
 #### Communication
 
-Throughout my career it has been a requirement to effectively communicate between the technical and non-technical, whether tailoring financial reports, explaining technical accounting points to founders or negotiating the competing interests on pressured theatre and film sets.  I believe effective listening is key to good communication; people often observe that I am an approachable and calming presence - I always had great relationships with my clients and colleagues as an accountant, and a freelancer where your reputation secures your next job.  Training and working as a volunteer counsellor for Childline has helped me further develop my active listening skills. 
+Throughout my career it has been a requirement to effectively communicate between the technical and non-technical, whether tailoring financial reports, explaining technical accounting points to founders or negotiating the competing interests on theatre and film projects.  
 
-#### Another Skill
+I believe effective listening is key to good communication; people often observe that I am an approachable and calming presence - I've always had great relationships with my clients and colleagues as an accountant, and as a freelancer where your reputation secures your next job.  I was awarded "team player of the year" when I took a year out to work for St Christopher's Fellowship at a hostel for homeless teens in Shephards Bush. Training and working as a volunteer counsellor for Childline has also allowed me to further develop my active listening skills.   
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Problem-solving
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My time as a freelancer has been an intensive preparation for the challenges of life as a developer.  I have learned how to methodically approach problems and resolve them creatively with limited time and resources.
+
+I production managed a highliy acclaimed touring theatre project, *Ring*, for FUEL theatre.  This had a very specific set of technical requirements that had to be adapted to each venue.  It was my job to make this happen, managing a new team of technicians and house staff every .
+
+As a sound recordist, I was typically individually responsible for the capture of dialogue on film and TV projects.  Filming locations are not usually chosen with sound in mind, so employing my technical knowledge of acoustics to spotting and fix issues before they hold up the schedule were a feature of every job.  
+
+*tech stuff to follow...*
+
+
 
 ## Education
 
