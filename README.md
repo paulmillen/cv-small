@@ -1,8 +1,6 @@
 ## Paul Millen -- WORK IN PROGRESS
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-Currently a student at one of the most discerning dev bootcamps in the world.  After a few years as a freelancer in theatre, TV and film, moved into financial support for tech startups.  Creative, 
+I am currently a student at one of the most discerning dev bootcamps in the world.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, ran creative projects as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
 
 ## Skills
 
