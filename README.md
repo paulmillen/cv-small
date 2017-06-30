@@ -23,7 +23,7 @@ As a sound recordist, I was typically solely responsible for the capture of dial
 ## Experience
 
 **St Christopher's Fellowship** (06.16 to 05.17)    
-*support worker - 16+*  
+*support worker, 16+*  
 Working with homeless young people to develop their lifeskills and secure long term accomodation.
 
 **iHorizon** (04.14 to 06.16)   
