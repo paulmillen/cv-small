@@ -66,7 +66,6 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 - I enjoy running and have raised over £1000 for charities running half marathons in recent years.
 - I play the guitar, drums and piano (with more enthusiasm than ability).  Recording and computer music when I have time.
 - Photography, film and digital - B&W development, Photoshop.
-- Learning French.
 
 
 
