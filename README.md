@@ -14,7 +14,7 @@ I believe effective listening is key to good communication; people often observe
 
 My time as a freelancer has been an intensive preparation for the challenges of life as a developer.  I have learned how to methodically approach problems and resolve them creatively with limited time and resources.
 
-I production managed a highliy acclaimed touring theatre project, *Ring*, for FUEL theatre.  This had a very specific set of technical requirements that had to be adapted to each venue.  It was my job to make this happen, managing each new team of technicians and house staff.
+In 2012-13, I production managed the highliy acclaimed touring theatre project, *Ring*, for FUEL theatre.  This had a very specific set of technical requirements that had to be adapted to each venue.  It was my job to make this happen, managing each new team of technicians and house staff.
 
 As a sound recordist, I was typically solely responsible for the capture of dialogue on film and TV projects.  Filming locations are not usually chosen with sound in mind, so employing my technical knowledge of acoustics to spot and fix issues before they effect the schedule were a feature of every job.  
 
@@ -45,8 +45,8 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 #### University of Sheffield (09.03 to 12.07)
 
 - MA, Theatre and Performance - 
-*Distinction*  
-- BA hons, English Literature -  *1st Class*
+Distinction  
+- BA hons, English Literature -  1st Class
 
 Awarded the Maisie Glass prize for outstanding attainment in coursework and performance elements of study.  
 Offered funded PhD position.
