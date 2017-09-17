@@ -1,6 +1,6 @@
 ## Paul Millen
 
-I am about to compelete Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
+I am about to complete Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
 
 ## Skills
 
@@ -9,7 +9,7 @@ I am about to compelete Makers Academy - a web development bootcamp that emphasi
 In twelve weeks at Makers Academy I have developed a solid foundation knowlege of the full stack, XP principals and TDD.  I have been required to learn languages and frameworks in short periods of time:
 - [Instagram clone](fstop-pm.herokuapp.com), after one week of learning Rails.
 - [SPA Note app](http://notes-pm.herokuapp.com/), after one week of learning Javascript.
-I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express.  It has been a joy, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development. 
+I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express.  It has been a joy, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.
 
 #### Communication
 
@@ -37,7 +37,7 @@ Provide monthly financial reporting and analysis for tech startups and high grow
 
 **Freelancer, Theatre and Film industries** (2007-2014)  
 *theatre sound designer / production manager / sound recordist*  
-Compose sound and music for theatre, management of touring theatre shows and sound departments, record dialogue for TV and movies. 
+Compose sound and music for theatre, management of touring theatre shows and sound departments, record dialogue for TV and movies.
 
 ## Education
 
@@ -50,7 +50,7 @@ Compose sound and music for theatre, management of touring theatre shows and sou
 
 #### University of Sheffield (09.03 to 12.07)
 
-- MA, Theatre and Performance - 
+- MA, Theatre and Performance -
 Distinction  
 - BA hons, English Literature -  1st Class
 
