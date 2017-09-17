@@ -1,6 +1,6 @@
 ## Paul Millen
 
-I am about to compelete Makers Acacdemy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
+I am about to compelete Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
 
 ## Skills
 
