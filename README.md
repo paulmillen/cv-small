@@ -1,6 +1,6 @@
 ## Paul Millen
 
-I am about to complete Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.  I'm now looking to tackle creative and technical challenges as a junior developer.    
+I am currently looking for junior developer roles having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.
 
 ## Skills
 
@@ -9,7 +9,7 @@ I am about to complete Makers Academy - a web development bootcamp that emphasis
 In twelve weeks at Makers Academy I have developed a solid foundation knowlege of the full stack, XP principals and TDD.  I have been required to learn languages and frameworks in short periods of time:
 - [Instagram clone](fstop-pm.herokuapp.com), after one week of learning Rails.
 - [SPA Note app](http://notes-pm.herokuapp.com/), after one week of learning Javascript.
-I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express.  It has been a joy, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.
+I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express and Node.  It is motivating, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.
 
 #### Communication
 
@@ -23,8 +23,6 @@ My time as a freelancer has been an intensive preparation for the challenges of 
 
 In 2012-13, I production managed the highliy acclaimed touring theatre project, *Ring*, for FUEL theatre.  This had a very specific set of technical requirements that had to be adapted to each venue.  It was my job to make this happen, managing each new team of technicians and house staff.
 
-As a sound recordist, I was typically solely responsible for the capture of dialogue on film and TV projects.  Filming locations are not usually chosen with sound in mind, so employing my technical knowledge of acoustics to spot and fix issues before they effect the schedule were a feature of every job.
-
 ## Experience
 
 **St Christopher's Fellowship** (06.16 to 05.17)    
@@ -33,7 +31,7 @@ Working with homeless young people to develop their lifeskills and secure long t
 
 **iHorizon** (04.14 to 06.16)   
 *senior finance assistant*  
-Provide monthly financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Find and implement technological solutions to aid workflow; use of cloud accounting.
+Provide monthly financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Manage finance assistants; use of cloud accounting.
 
 **Freelancer, Theatre and Film industries** (2007-2014)  
 *theatre sound designer / production manager / sound recordist*  
@@ -65,6 +63,5 @@ Offered funded PhD position.
 ### Interests
 
 - I have been a volunteer counsellor at Childline since September 2016.
-- I enjoy running and have raised money for charities running half marathons in recent years.
 - I play the guitar, drums and piano (with more enthusiasm than ability).  Record computer music when I have time.
 - [Photography](https://www.flickr.com/photos/nmtm), film and digital - B&W development, Photoshop.
