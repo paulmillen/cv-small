@@ -7,7 +7,7 @@ I am currently looking for junior developer roles having completed Makers Academ
 #### Fast, Independent Learner
 
 In twelve weeks at Makers Academy I have developed a solid foundation knowlege of the full stack, XP principals and TDD.  I have been required to learn languages and frameworks in short periods of time:
-- [Instagram clone](fstop-pm.herokuapp.com), after one week of learning Rails.
+- [Instagram clone](http://fstop-pm.herokuapp.com), after one week of learning Rails.
 - [SPA Note app](http://notes-pm.herokuapp.com/), after one week of learning Javascript.
 I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express and Node.  It is motivating, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.
 
