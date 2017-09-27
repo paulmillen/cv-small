@@ -51,7 +51,7 @@ Offered funded PhD position.
 - Part-qualified CIMA accountant
 - Diploma in Acoustics and Noise Control, Institute of Acoustics.
 
-### Other interests / skills
+## Other interests / skills
 
 - Volunteer counsellor at Childline, 09.16 - present.
 - [Photography](https://www.flickr.com/photos/nmtm), film and digital - B&W development, Photoshop.
