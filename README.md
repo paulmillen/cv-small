@@ -1,6 +1,6 @@
 ## Paul Millen
 
-I am currently looking for junior developer roles having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD and XP principals.
+I am currently looking a junior developer position having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD and XP principals.
 
 ## Examples of work
 
