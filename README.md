@@ -23,11 +23,11 @@ Working with homeless young people to develop their lifeskills and secure long t
 
 **iHorizon** (04.14 to 06.16)   
 *senior finance assistant*  
-Financial reporting and analysis for tech startups and high growth businesses; statutory and management accounting.  Manage finance assistants; use of cloud processes.
+Financial reporting and analysis for tech startups and high growth businesses.
 
 **Freelancer, Theatre and Film industries** (2007-2014)  
 *theatre sound designer / production manager / sound recordist*  
-Production management of touring theatre shows and sound departments, compose sound and music for theatre, record dialogue for TV and movies.
+Production management, department head, compose sound and music for theatre, production sound for TV and movies.
 
 ## Education
 
@@ -53,6 +53,6 @@ Offered funded PhD position.
 
 ### Other interests / skills
 
-- Volunteer counsellor at Childline since September 2016.
+- Volunteer counsellor at Childline, 09.16 - present.
 - [Photography](https://www.flickr.com/photos/nmtm), film and digital - B&W development, Photoshop.
 - Full clean drivers licence.
