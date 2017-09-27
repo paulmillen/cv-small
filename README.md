@@ -4,11 +4,11 @@ I am currently looking for a junior developer position having completed Makers A
 
 ## Examples of work
 
-- [Instagram-like web app](https://fstop-pm.herokuapp.com/) 'TDD something similar to Instagram in one weekend'.  
+- [Instagram-like web app](https://fstop-pm.herokuapp.com/) 'Create something similar to Instagram in one weekend'.  
 **Tech:** Rails, Devise, Postgres, Paperclip and S3 Buckets, Bootstrap 4, Rspec/Capybara/Selenium. ([repo](https://github.com/paulmillen/instagram-challenge))
 - [Single-page 'note' app](https://notes-pm.herokuapp.com/) TDD'd in nothing but ES5, no libraries or frameworks.  
 **Tech:** ES5. ([repo](https://github.com/paulmillen/note_app))
-- [Twitter-like web app](https://chitter-challenge-pwm.herokuapp.com/peeps) TDD'ing a Twitter-like app.  
+- [Twitter-like web app](https://chitter-challenge-pwm.herokuapp.com/peeps) A Twitter-like app.  
 **Tech:** Ruby, Sinatra, DatbaseManager, Postgres, Bootstrap, Rspec/Capybara/Selenium. ([repo](https://github.com/paulmillen/chitter-challenge))
 - [Cloud Foundry API](https://github.com/paulmillen/cloud_foundry_api) TDD'ing an API resembling that of a Cloud Foundry service broker.  
 **Tech:** Ruby, Sinatra, Rspec.
