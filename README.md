@@ -18,7 +18,7 @@ I am currently looking a junior developer position having completed Makers Acade
 ## Abbreviated vocational history
 
 **St Christopher's Fellowship** (06.16 to 05.17)    
-*support worker, 16+*  
+*support worker, ages 16+*  
 Working with homeless young people to develop their lifeskills and secure long term accomodation.
 
 **iHorizon** (04.14 to 06.16)   
