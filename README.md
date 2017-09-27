@@ -1,4 +1,5 @@
-## Paul Millen - pwmillen @ gmail.com
+## Paul Millen  
+pwmillen @ gmail.com
 
 I am currently looking for a junior developer position having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD and XP principals.
 
