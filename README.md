@@ -1,42 +1,49 @@
 ## Paul Millen  
-pwmillen @ gmail.com
+pwmillen[@]gmail.com
 
-I am currently looking for a junior developer position having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD and XP principals.
+Software engineer at Kin + Carta Create EU.  
+Mainly front end with some back end experience too.  Enthusiastic to broaden my knowledge in all parts of the stack.
 
-## Examples of work
+### Comfortable using:
 
-- [Instagram-like web app](https://fstop-pm.herokuapp.com/) 'Create something similar to Instagram in one weekend'.  
-**Tech:** Rails, Devise, Postgres, Paperclip and S3 Buckets, Bootstrap 4, Rspec/Capybara/Selenium. ([repo](https://github.com/paulmillen/instagram-challenge))
-- [Single-page 'note' app](https://notes-pm.herokuapp.com/) TDD'd in nothing but ES5, no libraries or frameworks.  
-**Tech:** ES5. ([repo](https://github.com/paulmillen/note_app))
-- [Twitter-like web app](https://chitter-challenge-pwm.herokuapp.com/peeps) A Twitter-like app.  
-**Tech:** Ruby, Sinatra, DataMapper, Postgres, Bootstrap, Rspec/Capybara/Selenium. ([repo](https://github.com/paulmillen/chitter-challenge))
-- [Cloud Foundry API](https://github.com/paulmillen/cloud_foundry_api) TDD'ing an API resembling that of a Cloud Foundry service broker.  
-**Tech:** Ruby, Sinatra, Rspec.
-- [Side-scrolling platformer](http://www.catastrophe.wtf/) A sidescrolling, procedurally generated platform game.  Group project.  
-**Tech:** JS, HTML5 Canvas, matter.js, Node, Travis, Jasmine. ([repo](https://github.com/paulmillen/side-scroller))
+React, Vue, Svelte, JS/TS, Node, Highcharts, Threejs
+
+### Some experience with:
+
+Python, Django, C#, .NET Core, Kotlin, SQL, Docker / Kubernetes, GraphQL, React Native
+
+## Project hightlights
+
+- Data visualisation driven dashboard product for large data science company (React, TS, NVD3).
+- Web-based self-service terminal for international home improvement company (React, TS, websocket interface with PED API).
+- Supported online counselling service to launch second iteration of their web app and create data visualisation tool for client reporting (React, Node, TS, Highcharts).
+- Integrate exisiting web app with new APIs for a multinational automaker (Vue, Kotlin).
+- Rewrote back-office Cordova app in React Native for multinational consumer goods company.
 
 ## Abbreviated vocational history
 
-**St Christopher's Fellowship** (06.16 to 05.17)    
-*support worker, ages 16+*  
-Working with homeless young people to develop their lifeskills and secure long term accomodation.
+Software engineer  
+**Kin + Carta Create EU**, Feb 2020 - present  
+(formerly The App Business)
 
-**iHorizon** (04.14 to 06.16)   
-*senior finance assistant*  
-Financial reporting and analysis for tech startups and high growth businesses.
+**TAB (The App Business)**  
+Software engineer, Mar 2019 - Feb 2020  
+Associate software engineer, Oct 2017 - Mar 2019
 
-**Freelancer, Theatre and Film industries** (2007-2014)  
-*theatre sound designer / production manager / sound recordist*  
-Production management, department head, compose sound and music for theatre, production sound for TV and movies.
+Support worker  
+**St Christopher's Fellowship**, Jun 2016 - May 2017   
+
+Senior finance assistant  
+**iHorizon**, Apr 2014  Jun 2016
+
+Theatre sound designer / production manager / sound recordist  
+**Freelance, Theatre and Film industries** 2007 - 2014
 
 ## Education
 
 #### Makers Academy (07.17 to 09.17)
 
-- Agile/XP, pair programming, OOD
-- Ruby, Rails, JavaScript, Node, JQuery, Bootstrap, SQL
-- Testing frameworks: RSpec, Jasmine, Selenium
+- Intensive coding bootcamp
 
 #### University of Sheffield (09.03 to 12.07)
 
@@ -44,18 +51,12 @@ Production management, department head, compose sound and music for theatre, pro
 Distinction  
 - BA hons, English Literature -  1st Class
 
-Awarded the Maisie Glass prize for outstanding attainment in coursework and performance elements of study.  
-Offered funded PhD position.
+Awarded the Maisie Glass prize for outstanding attainment in coursework and performance elements of study.
 
-#### Other qualifications
+## Other interests
 
-- Part-qualified CIMA accountant
-- Diploma in Acoustics and Noise Control, Institute of Acoustics.
-
-## Other interests / skills
-
-- Volunteer counsellor at Childline, 09.16 - present.
 - [Photography](https://www.flickr.com/photos/nmtm), film and digital - B&W development, Photoshop.
-- Full clean drivers licence.
-
-[expanded CV](https://github.com/paulmillen/cv)
+- Middle distance running
+- Learning French
+- Infosec, ethical hacking
+- Motorsport
