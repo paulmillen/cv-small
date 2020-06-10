@@ -1,8 +1,8 @@
-## Paul Millen 
+## Paul Millen - software engineer 
 pwmillen[@]gmail.com
 
-Software engineer at Kin + Carta Create EU.   
-Mainly front end with some back end experience too. Enthusiastic to broaden my skills in all parts of the stack.
+Currently at consultancy Kin + Carta Create EU (formerly The App Business - TAB).   
+Mainly front end web development with some back end experience too. Enthusiastic to broaden my skills in all parts of the stack.
 
 ### Comfortable using:
 
