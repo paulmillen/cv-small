@@ -1,12 +1,13 @@
 ## Paul Millen - software engineer 
+[paulmillen.com](http://www.paulmillen.com/)  
 pwmillen[@]gmail.com
 
 Currently at consultancy Kin + Carta Create EU (formerly The App Business - TAB).   
-Mainly front end web development with some back end experience too. Enthusiastic to broaden my skills in all parts of the stack.
+Mainly front-end web development with some back-end experience too. Love to work in diverse teams of all experiences and disciplines, testing, designers etc.  Always strive for clean, well tested code.  Enthusiastic to broaden my skills in all parts of the stack.
 
 ### Comfortable using:
 
-React, Vue, Svelte, JS/TS, Node, Highcharts, Threejs
+React, Vue, Svelte, JS/TS, Node, Highcharts, Threejs, Jest, testing library, Cypress
 
 ### Some experience with:
 
@@ -42,11 +43,10 @@ Theatre sound designer / production manager / sound recordist
 
 ## Education
 
-#### Makers Academy (07.17 to 09.17)
-
+**Makers Academy**, Jul 2017 - Sep 2017
 - Intensive coding bootcamp
 
-#### University of Sheffield (09.03 to 12.07)
+**University of Sheffield**, Sep, 2003 - Dec 2007
 
 - MA, Theatre and Performance -
 Distinction 
@@ -57,8 +57,8 @@ Awarded the Maisie Glass prize for outstanding attainment in coursework and perf
 ## Other interests
 
 - [Photography](https://www.flickr.com/photos/nmtm), film and digital - B&W development, Photoshop.
+- film
 - Long distance running
 - Learning French
 - Infosec, ethical hacking
-- Motorsport
 
